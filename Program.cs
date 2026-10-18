@@ -1,30 +1,27 @@
-﻿// zad1 
-string imie = "AAA";
-char symbol = '@';
-int poziom = 5;
-int zloto = 67;
-double waga = 10.2;
-bool maMape = true;
+﻿// zad2 
+int doswiadczenie = 33;
+int zloto = 55;
+int numerTreningu = 1;
 
-Console.WriteLine("=== EKWIPUNEK ===");
-Console.WriteLine($"imie (string): {imie}");
-Console.WriteLine($"symbol (char): {symbol}");
-Console.WriteLine($"poziom (int): {poziom}");
-Console.WriteLine($"zloto (int): {zloto}");
-Console.WriteLine($"waga (double): {waga} kg");
-Console.WriteLine($"maMape (bool): {maMape}");
-Console.WriteLine("");
-poziom = 10;
-zloto = 120;
-waga = 12.3;
-Console.WriteLine("=== EKWIPUNEK ===");
-Console.WriteLine($"imie (string): {imie}");
-Console.WriteLine($"symbol (char): {symbol}");
-Console.WriteLine($"poziom (int): {poziom}");
-Console.WriteLine($"zloto (int): {zloto}");
-Console.WriteLine($"waga (double): {waga} kg");
-Console.WriteLine($"maMape (bool): {maMape}");
-Console.WriteLine("");
+Console.WriteLine("--- STAN POCZĄTKOWY ---");
+Console.WriteLine($"Doswiadczenie: {doswiadczenie}");
+Console.WriteLine($"Zloto: {zloto}");
+Console.WriteLine($"Numer treningu: {numerTreningu}");
+
+doswiadczenie += 55;
+doswiadczenie *= 2;
+zloto -= 10;
+zloto += 17;
+numerTreningu++;
+
+Console.WriteLine("\n--- STAN KOŃCOWY ---");
+Console.WriteLine($"Doswiadczenie: {doswiadczenie}");
+Console.WriteLine($"Zloto: {zloto}");
+Console.WriteLine($"Numer treningu: {numerTreningu}");
+
+
+
+
 
 
 
