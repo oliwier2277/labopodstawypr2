@@ -1,0 +1,14 @@
+C:\Users\s38430\Desktop\labpodstpro2\kartabohatera\obj\Debug\net10.0\kartabohatera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s38430\Desktop\labpodstpro2\kartabohatera\obj\Debug\net10.0\kartabohatera.AssemblyInfoInputs.cache
+C:\Users\s38430\Desktop\labpodstpro2\kartabohatera\obj\Debug\net10.0\kartabohatera.AssemblyInfo.cs
+C:\Users\s38430\Desktop\labpodstpro2\kartabohatera\obj\Debug\net10.0\kartabohatera.csproj.CoreCompileInputs.cache
+C:\Users\s38430\Desktop\labpodstpro2\kartabohatera\bin\Debug\net10.0\kartabohatera.exe
+C:\Users\s38430\Desktop\labpodstpro2\kartabohatera\bin\Debug\net10.0\kartabohatera.deps.json
+C:\Users\s38430\Desktop\labpodstpro2\kartabohatera\bin\Debug\net10.0\kartabohatera.runtimeconfig.json
+C:\Users\s38430\Desktop\labpodstpro2\kartabohatera\bin\Debug\net10.0\kartabohatera.dll
+C:\Users\s38430\Desktop\labpodstpro2\kartabohatera\bin\Debug\net10.0\kartabohatera.pdb
+C:\Users\s38430\Desktop\labpodstpro2\kartabohatera\obj\Debug\net10.0\kartabohatera.dll
+C:\Users\s38430\Desktop\labpodstpro2\kartabohatera\obj\Debug\net10.0\refint\kartabohatera.dll
+C:\Users\s38430\Desktop\labpodstpro2\kartabohatera\obj\Debug\net10.0\kartabohatera.pdb
+C:\Users\s38430\Desktop\labpodstpro2\kartabohatera\obj\Debug\net10.0\kartabohatera.genruntimeconfig.cache
+C:\Users\s38430\Desktop\labpodstpro2\kartabohatera\obj\Debug\net10.0\ref\kartabohatera.dll
